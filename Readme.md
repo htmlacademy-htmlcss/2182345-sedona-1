@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
 * Студент: [Виктория  Диленко](https://up.htmlacademy.ru/htmlcss-individual/1/user/2182345).
-* Наставник: `Артём Именин`.
+* Наставник: [Артем Именин](https://htmlacademy.ru/profile/id1691873).
 
 ---
 
